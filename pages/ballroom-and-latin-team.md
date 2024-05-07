@@ -1,6 +1,5 @@
 ---
 title: "Ballroom & Latin"
-date: "2023-07-13"
 layout: layouts/page.njk
 eleventyNavigation:
   key: Ballroom & Latin
@@ -10,22 +9,27 @@ permalink: /ballroom-and-latin-team/
 
 # Imperial College Ballroom and Latin Team
 
-## Main Team
-
-- **Levels:** Novice, Intermediate, Advanced, Alumni
+- **Levels:** Beginner, Novice, Intermediate, Advanced
 - **Ballroom:** Waltz, Tango, Viennese Waltz, Foxtrot, Quickstep
 - **Latin:** Cha-cha, Samba, Rumba, Paso Doble, Jive
 
-The Main Team have a practice supervised by our instructors every week (3 hours each for Latin and Ballroom). In addition, the Main Team also have a structured, committee-led practice on an assigned weekday evening, depending on the style of dance.
+Every dancer in the Ballroom and Latin team, no matter the level, enjoys an hour class and an hour of group supervised practice with one of [our world-class professional instructors](/instructors/). Each week, a further two practice nights let you perfect the craft.
 
-For more information you can email [dance@imperial.ac.uk](mailto:dance@imperial.ac.uk) or message us on our Facebook page.
+### I've never danced before!
 
-## Beginners’ Team
+Join our beginners' team!
+We'll start with Waltz, Quickstep, Cha-Cha and Jive, before progressing to other styles later in the year.
 
-- **Styles:** Waltz, Quickstep, Cha-cha, Jive
+We have dedicated committee members as beginners’ trainers who will provide great support for your journey into the beautiful world of Ballroom and Latin dancing.
+In addition to classes with professional instructors, you'll also benefit from an extra two hours of committee-led beginners practice every Saturday.
 
-The Beginners’ Team is specifically for absolute beginners who have little or no prior experience in Ballroom or Latin dancing. The classes start in October and there are several practices every week.
+### How do I join?
 
-We have dedicated committee members as beginners’ trainers who will provide great support for your journey into the beautiful world of ballroom and latin dancing. Come join us!
+* If you are new to Ballroom and Latin altogether, the best way to start your dance journey is to come along to one of our taster sessions in early October.
+* If you have prior dance experience, come along to one of our classes and chat with a committee member! You can also get in touch [by email](mailto:dance@imperial.ac.uk) or [on Instagram](https://www.instagram.com/dancers_of_imperial/).
+* If you're not an Imperial student, we typically only let people join if they have an Imperial partner. However, you should get in touch to let us know your unique circumstances and we'll see what we can do!
 
-For more information you can [email us](mailto:dance@imperial.ac.uk) or message us on our Facebook page.
+### I have a question!
+
+Chat with us by emailing [dance@imperial.ac.uk](mailto:dance@imperial.ac.uk) or [messaging on Instagram](https://www.instagram.com/dancers_of_imperial/). We are more than happy to help!
+
