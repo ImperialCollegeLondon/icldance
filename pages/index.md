@@ -1,6 +1,5 @@
 ---
 title: Imperial College Dance Club
-date: "2023-07-15"
 
 layout: layouts/page.njk
 eleventyNavigation:
@@ -11,15 +10,17 @@ permalink: /
 
 # Welcome to Imperial College Dance Club
 
-![IVDC 2023](/images/ivdc23.jpg)
+![Bath Winter Friendly 2023](/images/bath23.jpg)
 
-The Imperial Dance Club has a rich history of over 50 years of nurturing dancers of all abilities, encouraging all to achieve excellence; it doesn’t matter if you were born to dance or born with _two left feet_, Imperial’s Dance Club will guide you to achieve your best!
+In the words of the Bee Gees… You Should Be Dancing 🪩
 
-We provide lessons covering 12 distinct dance styles on a regular basis, with occasional taster sessions offering a glimpse into other styles. We have some of the world’s best instructors who, through their expertise, propel both beginners and experienced dancers along their dancing journey, whilst still maintaining a fun and relaxed atmosphere that all can enjoy. Whether you are looking to compete or to enjoy social dancing, we have you covered.
+With dancing being one of the best ways of staying active, IC Dance Club offers Ballroom (Waltz, Tango, Viennese Waltz, Foxtrot, Quickstep), Latin (Cha Cha, Samba, Rumba, Paso Doble, Jive), Salsa, and Bachata classes and socials fostered in a passionate environment with club spirit at its heart. With over 250 members, we offer classes for all skill levels, so whether you’re a complete beginner or think you’re at the top of your game, we have something for you 😁
 
-Being the biggest student-run club in Imperial with the most numbers of alumni members, we have a large, diverse, and welcoming family that continues to embrace new beginners to our team every year. 
+Join the [Ballroom & Latin Team](/ballroom-and-latin-team/) and dance alongside the [winners of the Inter Varsity Dance Championships 2023 Team Match](/posts/2021-22/ivdc/) 🏆 Taught by [world-class coaches](/instructors/), unleash your inner dancer and burn the floor at a variety of university competitions ✨
 
-There's much more to explore on our website - check out our [Ballroom and Latin Team](/ballroom-and-latin-team/), [Salsa and Bachata Team](/salsa-and-bachata-team/), [Instructors](/instructors/) and [FAQ](/faq/) pages to learn more. And don't miss our latest updates on the [Blog](/blog/). So don’t be shy: check out our website, and [contact us](mailto:dance@imperial.ac.uk) if you are interested in joining!
+Into something more social? Join the UK’s top student [Salsa & Bachata Team](/salsa-and-bachata/)! Take part in weekly socials and join an ever-expanding community as you attend global festivals 🌎, boat parties 🛥, and picnics 🌳 If you want to go above and beyond (literally, it’s flipping awesome), join the Open Level Team and learn phenomenal choreography to compete in university showcases 💃
+
+[No partner? No experience? No sweat!](/faq/) You bring the good vibes, and we’ll bring all the glitz and glamour you could dream of 🤩
 
 ## Timetable
 
