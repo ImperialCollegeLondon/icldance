@@ -1,6 +1,5 @@
 ---
 title: "Salsa & Bachata"
-date: "2023-09-08"
 layout: layouts/page.njk
 eleventyNavigation:
   key: Salsa & Bachata
@@ -34,8 +33,6 @@ challenging routines and how to apply and integrate them into social
 dancing. Above all, it's a friendly and welcoming community to meet new
 people and just have fun.
 
-<!--<center><h3>Free tasters for social classes until October 17<sup>th</sup></h3></center>-->
-
 - All social classes take place in the JCR. There's no need to bring a
   partner or to sign up in advance.
 - Please arrive on the hour for class to start at quarter past
@@ -51,8 +48,6 @@ choreographed by our amazing coach Alex Rasero which we then perform
 throughout the year at university competitions, venues around London and
 sometimes even abroad.
 
-<!--<center><h3>Free tasters for all team levels on October 8<sup>th</sup></h3></center>-->
-
 ### Open Level Team
 
 Your chance to experience team choreography and performance, and
@@ -61,8 +56,6 @@ commitment of 1 hour every Sunday to learn from our talented instructor
 and practice with the team – no auditions and beginners are welcome. A
 fantastic experience to perform, go to inter-university competitions and
 join a close-knit, fun and friendly dancing community.
-
-<!--We will be running taster sessions on **October 8<sup>th</sup>** and **October 15<sup>th</sup>**.-->
 
 After the tasters sessions, you can join the open level team using [this link](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAMAADLXB81UMlhHSlJaOEY0WjdTSFFTRUIzM0hYTURMSS4u).
 
@@ -84,26 +77,11 @@ competitions having won Birmingham Dance Club Latino’s Competition 7
 times in the last 8 years. Members of this team tend to have some prior
 dancing experience whether that be salsa, bachata or another style.
 
-<!--
-We will be running a taster session on **October 8<sup>th</sup>**, no sign up required.
-
-Auditions for the 2023-24 S&B team will be held on **October 15<sup>th</sup>**.
-Sign up using [this link](https://forms.office.com/e/kDBaPzbXtB).
--->
-
 ---
 
 Watch the 21/22 Salsa Team’s Birmingham DCL winning performance:
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/1MFMvPnjsrU?si=6ic7mwcHw_7HPdmw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-<!--
-### Cha Cha Shines
-
-As team numbers have been increasing, we are hoping to introduce a new team
-for 2023/24: <em>Cha Cha Shines</em>. Come to our taster on Sunday 8<sup>th</sup> 
-October to find out more about this style.
--->
 
 ## Get in touch
 
