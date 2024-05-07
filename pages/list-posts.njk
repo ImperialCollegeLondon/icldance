@@ -1,15 +1,15 @@
 ---
 layout: layouts/page.njk
 permalink: /blog/
-title: Blog
+title: News
 eleventyNavigation:
-  key: Blog
+  key: News
   order: 4
 eleventyImport:
   collections: ["posts"]
 ---
 
-<h1>Blog</h1>
+<h1>News and results</h1>
 
 {% set postslist = collections.posts %}
 {% include "postslist.njk" %}
