@@ -1,0 +1,15 @@
+---
+layout: layouts/page.njk
+permalink: /blog/
+title: Blog
+eleventyNavigation:
+  key: Blog
+  order: 4
+eleventyImport:
+  collections: ["posts"]
+---
+
+<h1>Blog</h1>
+
+{% set postslist = collections.posts %}
+{% include "postslist.njk" %}

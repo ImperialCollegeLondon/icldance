@@ -1,0 +1,30 @@
+{
+  "name": "icldance",
+  "version": "1.0.0",
+  "description": "Imperial College Dance Club website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@11ty/eleventy": "^2.0.1",
+    "@11ty/eleventy-navigation": "^0.3.5",
+    "@11ty/eleventy-plugin-inclusive-language": "^1.0.3",
+    "eleventy-plugin-broken-links": "^2.0.3",
+    "eleventy-plugin-lazyimages": "^2.1.2",
+    "eleventy-plugin-seo": "^0.5.2",
+    "html-minifier": "^4.0.0",
+    "markdown-it": "^13.0.1",
+    "markdown-it-anchor": "^8.6.7",
+    "markdown-it-attrs": "^4.1.6",
+    "markdown-it-footnote": "^3.0.3",
+    "markdown-it-image-figures": "^2.1.1"
+  },
+  "dependencies": {
+    "@inframanufaktur/eleventy-plugin-clean-urls": "^1.0.2",
+    "@quasibit/eleventy-plugin-sitemap": "^2.2.0"
+  }
+}

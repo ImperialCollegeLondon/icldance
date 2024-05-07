@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="{{ metadata.language }}">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ title or metadata.title }}</title>
+    <meta name="description" content="{{ description }}">
+
+    <meta name="generator" content="{{ eleventy.generator }}">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="preconnect" href="https://rsms.me/">
+
+    <link rel="stylesheet" href="{{ '/css/index.css' | url }}">
+
+    <link href="https://fonts.googleapis.com/css2?family=Lora:ital@0;1&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://rsms.me/inter/inter.css">
+
+    <link rel="alternate" href="{{ metadata.feed.path | url }}" type="application/atom+xml" title="{{ metadata.title }}">
+    <link rel="alternate" href="{{ metadata.jsonfeed.path | url }}" type="application/json" title="{{ metadata.title }}">
+
+    {% seo "" %}
+  </head>
+  <body>
+    <header>
+      <h1 class="home"><a href="{{ '/' | url }}">{{ metadata.title }}</a></h1>
+
+      <nav>
+      {%- for entry in collections.all | eleventyNavigation %}
+        <a class="nav-item{% if entry.url == page.url %} nav-item-active{% endif %}" href="{{ entry.url | url }}">{{ entry.title }}</a>
+      {%- endfor %}
+      </nav>
+    </header>
+
+    <main{% if templateClass %} class="{{ templateClass }}"{% endif %}>
+      {{ content | safe }}
+    </main>
+
+    <footer>&copy; 2023 Imperial College Dance Club</footer>
+  </body>
+</html>
