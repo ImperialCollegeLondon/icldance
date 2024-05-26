@@ -1,22 +1,15 @@
 ---
 title: "Instructors"
-date: "2023-07-13"
-layout: layouts/post.njk
+layout: layouts/page.njk
 eleventyNavigation:
   key: Instructors
   order: 5
 permalink: /instructors/
 ---
 
-We have a team of world-class, dedicated resident instructors that teach our students. They are: [Alex Rasero](#alex-rasero), [Laura Fox](#laura-fox) and [Marika Doshoris](#marika-doshoris). On occasion, we also have amazing _guest instructors_ who introduce new styles, such as Argentine Tango and Kizumba.
+# Instructors
 
-## Alex Rasero
-
-![Alex Rasero DJ-ing](/images/alex.jpg)
-
-Alex is the founder of _Velvet Productions London Ltd._, an organizer of the annual OneDance Latin Festival, and a DJ. Besides his amazing ventures in the competitive dance scenes, he also coaches award-wining dance teams, one of which is the Imperial College Salsa and Bachata Dance Team. Alex teaches different styles of salsa and bachata, and we have the good fortune of learning from him.
-
-Alex’s style of teaching can only be described as fun and nurturing. Whether you are beginner or an expert, there is always something for you in his classes.
+We have a team of world-class, dedicated resident instructors that teach our students. They are: [Laura Fox](#laura-fox) and [Marika Doshoris](#marika-doshoris). On occasion, we also have amazing _guest instructors_ who introduce new styles, such as Argentine Tango and Kizumba.
 
 ## Laura Fox
 
