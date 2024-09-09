@@ -90,6 +90,8 @@ module.exports = function (eleventyConfig) {
 
   // Copy any .jpg files (e.g. for posts) preserving directory structure
   eleventyConfig.addPassthroughCopy("**/*.jpg");
+  eleventyConfig.addPassthroughCopy("**/*.png");
+  eleventyConfig.addPassthroughCopy("**/*.svg");
 
   // Copy any assets (e.g. documents) preserving directory structure
   eleventyConfig.addPassthroughCopy("assets");

@@ -28,12 +28,10 @@ Into something more social? Join the UK’s top student [Salsa & Bachata Team](/
 
 ## Links
 
-- [Facebook](https://www.facebook.com/ImperialCollegeDanceClub)
 - [Instagram](https://www.instagram.com/dancers_of_imperial/)
-- [Mailing List](https://mailman.ic.ac.uk/mailman/listinfo/icu-dance)
-- [Email us](mailto:dance@imperial.ac.uk)
-
-- [Ballroom & Latin Facebook Group](https://www.facebook.com/groups/1016821529348316)
-- [Salsa & Bachata Facebook Group](https://www.facebook.com/groups/620535802999022)
+- [B&L Facebook group](https://www.facebook.com/groups/1016821529348316)
 - [Union Shop Page](https://www.imperialcollegeunion.org/shop/student-groups/338)
+<br>
+- [Join the mailing list](https://mailman.ic.ac.uk/mailman/listinfo/icu-dance)
+- [Email us](mailto:dance@imperial.ac.uk)
 

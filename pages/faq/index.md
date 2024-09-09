@@ -25,11 +25,13 @@ All Classes take place in the Junior Common Room (**JCR**) in the Sherfield buil
 
 (Note that without membership you will only be able to attend scheduled lessons and won’t be able to use these as practice spaces.)
 
-**JCR**: The Junior Common Room is number 20 on the map; the entrance is opposite number 15. It is on the 2nd floor of the Sheffield building, next to the Senior Common Room (SCR).
+**JCR**: The Junior Common Room is number 20 on the [South Kensington campus map](https://www.imperial.ac.uk/media/imperial-college/faculty-of-engineering/civil/public/about/sthkencampus.pdf); the entrance is opposite number 15. It is on the 2nd floor of the Sheffield building, next to the Senior Common Room (SCR).
 
 Occasionally, we hold lessons in other locations; additional instructions on how to get there will be released via the respective Facebook group.
 
 ## How do I get membership?
+
+![Membership flowchart](/pages/faq/images/membership.svg)
 
 Imperial College students and Union members can become members of IC Dance Club by purchasing membership [online](https://www.imperialcollegeunion.org/activities/a-to-z/dance-club). Remember to sign into Imperial College Union website to purchase the membership and our products. Membership is £20 for the whole year, which allows you to access all of our social classes at a discounted package, and to join our competitive teams. Once you’ve done that, bring a copy of your confirmation email to any class and we will give you a membership card. The membership is valid for the entire academic year.
 
