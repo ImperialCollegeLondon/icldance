@@ -21,7 +21,7 @@ where there’s music, you’ll find us dancing.
 
 ## Social Classes
 
-Our amazing instructor and choreographer [Alex Rasero](/instructors/#alex-rasero) delivers three
+Our amazing instructors deliver three
 hours of social dancing classes every Monday (Salsa) and Friday
 (Bachata). From **6.15** to **9.15pm**, one hour each of beginner, intermediate and
 advanced level classes provide excellent technique and musicality
@@ -44,9 +44,11 @@ people and just have fun.
 We have a range of teams from our non-auditioned Open Level team to our
 Advanced Salsa & Bachata teams, which means that there is something for
 you no matter your level of experience. Each team learns a group dance,
-choreographed by our amazing coach Alex Rasero which we then perform
+choreographed by our amazing coaches which we then perform
 throughout the year at university competitions, venues around London and
 sometimes even abroad.
+
+You can join the open level team and sign up for the salsa and bachata team auditions by completing the form [here](https://linktr.ee/imperialdance).
 
 ### Open Level Team
 
@@ -56,8 +58,6 @@ commitment of 1 hour every Sunday to learn from our talented instructor
 and practice with the team – no auditions and beginners are welcome. A
 fantastic experience to perform, go to inter-university competitions and
 join a close-knit, fun and friendly dancing community.
-
-After the tasters sessions, you can join the open level team using [this link](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAMAADLXB81UMlhHSlJaOEY0WjdTSFFTRUIzM0hYTURMSS4u).
 
 ---
 

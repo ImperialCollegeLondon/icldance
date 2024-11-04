@@ -1,6 +1,5 @@
 ---
 title: "FAQ"
-date: "2023-07-13"
 layout: layouts/page.njk
 eleventyNavigation:
   key: FAQ
@@ -33,10 +32,26 @@ Occasionally, we hold lessons in other locations; additional instructions on how
 
 ![Membership flowchart](/pages/faq/images/membership.svg)
 
-Imperial College students and Union members can become members of IC Dance Club by purchasing membership [online](https://www.imperialcollegeunion.org/activities/a-to-z/dance-club). Remember to sign into Imperial College Union website to purchase the membership and our products. Membership is £20 for the whole year, which allows you to access all of our social classes at a discounted package, and to join our competitive teams. Once you’ve done that, bring a copy of your confirmation email to any class and we will give you a membership card. The membership is valid for the entire academic year.
+For most dancers, becoming a member costs only £20 for the entire academic year.
+Membership lets you access all of our social classes at a discounted package, and to join our competitive teams.
 
-## What if I am not a current IC student?
+### Imperial students
 
-Other Further or Higher Education students, as well as Imperial ex-students and staff, can also join and will need the following:
-Imperial College Union Membership **AND** IC Dance Club Membership.
-Instructions on how to buy Imperial College Union Membership can be found [here](https://www.imperialcollegeunion.org/your-union/how-were-run/membership).
+Imperial College students can become members of the Dance Club by purchasing membership on the Union website [here](https://www.imperialcollegeunion.org/activities/a-to-z/dance-club).
+
+### Recent Imperial graduates
+
+If you are not already a Life Member of the Union, you may purchase Life Membership [here](https://www.imperialcollegeunion.org/shop/union/imperial-college-union/life-membership). Then you will be able to become a [member of the Dance Club](https://www.imperialcollegeunion.org/shop/csp/dance-club/dance-club-membership-24-25).
+
+### Non-Imperial students
+
+You must first become a member of the Imperial College Union. Associate Union Membership is usually £5/month, discounted to £5/year for students of the [Royal College of Art](https://www.rca.ac.uk/) and [Royal College of Music](https://www.rcm.ac.uk/). To become an associate member, go in-person to the Union Helpdesk located on the ground floor of the [Imperial College Union](https://maps.app.goo.gl/A634P1Ap7WjCekoT7). Remember to bring your institution's student ID card.
+
+If you can't attend in-person during the Union's opening hours, please get in touch by sending us a message on Instagram [@dancers\_of\_imperial](https://www.instagram.com/dancers_of_imperial) or by writing us an email at [dance@imperial.ac.uk](mailto:dance@imperial.ac.uk).
+
+### Non-Imperial graduates
+
+Imperial College Dance Club is run by students, for students. On occasion we do welcome non-Imperial graduates, for example, if they have a dance partner from Imperial or are somehow else related to the university.
+
+Please tell us about your unique circumstances by sending us a message on Instagram [@dancers\_of\_imperial](https://www.instagram.com/dancers_of_imperial) or by writing us an email at [dance@imperial.ac.uk](mailto:dance@imperial.ac.uk) and we will help you determine how you can join the club.
+

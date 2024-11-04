@@ -26,12 +26,15 @@ Into something more social? Join the UK’s top student [Salsa & Bachata Team](/
 
 <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=2&bgcolor=%23ffffff&ctz=Europe%2FLondon&showTitle=0&showPrint=0&hl=en_GB&mode=WEEK&src=YWExNmVhOTU3M2EyMGYzYTMwYjMyNDY4OWZjNjk1MDRlOTVmM2E2ZTMzNzY2MWQzMzk1NjBkNWM5NjIxYWQwY0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=OGRkZDQ3ZGE0NTIxOTc4NzRkYmNjMmYzNGMwYWZlYjFkOWRhMjA2Njg5OWVjNTkxNjFkNzViZjZkMjg3ODY1MkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%23D50000&color=%2333B679" style="border-width:0" width="auto" height="600" frameborder="0" scrolling="no"></iframe>
 
-## Links
+## Stay in touch
 
-- [Instagram](https://www.instagram.com/dancers_of_imperial/)
-- [B&L Facebook group](https://www.facebook.com/groups/1016821529348316)
-- [Union Shop Page](https://www.imperialcollegeunion.org/shop/student-groups/338)
-<br>
-- [Join the mailing list](https://mailman.ic.ac.uk/mailman/listinfo/icu-dance)
-- [Email us](mailto:dance@imperial.ac.uk)
+Want to stay in touch or have questions? Find us on Instagram, [@dancers\_of\_imperial](https://www.instagram.com/dancers_of_imperial/).
+
+Get the latest updates about the competitive teams:
+- Follow the Salsa & Bachata Team Instagram, [@ic\_socialdancers](https://www.instagram.com/ic_socialdancers/)
+- Join the [Ballroom & Latin Facebook group](https://www.facebook.com/groups/1753191215487540/)
+
+Ready to get involved? Click [here](https://www.imperialcollegeunion.org/shop/csp/dance-club/dance-club-membership-24-25) to become a member.
+
+For any further questions or business enquiries, please write to our email, [dance@imperial.ac.uk](mailto:dance@imperial.ac.uk).
 
