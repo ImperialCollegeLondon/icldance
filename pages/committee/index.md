@@ -73,7 +73,9 @@ Specific administrative duties include:
 | 2020-21 | Bowen Kwan |
 | 2021-22 | Bowen Kwan |
 | 2022-23 | Izabela Jaszcz |
-| 2023-24 | Timothy Langer (replaced Adrien Carrel from October 2023) |
+| 2023    | Adrien Carrel |
+| 2023-24 | Timothy Langer |
+| 2024-25 | Erica Lin |
 
 The **President** is the person ultimately responsible for everything
 that happens in the club, defining the club's general direction.
@@ -152,7 +154,8 @@ of administrative duties, which include:
 | 2020-21 | Iris Roatiș |  
 | 2021-22 | Madison Dorrzapf | Sophia Jiang |
 | 2022-23 | Kennedy Au |
-| 2023-24 | Dan Wilcox (replaced Eleftheria Safarika from January 2024) |
+| 2023    | Eleftheria Safarika |
+| 2023-24 | Dan Wilcox |
 
 Additional duties specific to the B\&L Team Captain:
 
@@ -167,27 +170,27 @@ Additional duties specific to the B\&L Team Captain:
 
 | Year | Name |
 | ---- | ---- | 
-| 2003 | Thomas Pritchard |
-| 2004 | Joanna King |
-| 2005 | Joanne Horton | 
-| 2006 | Laura Cobden | 
-| 2007 | Melissa Turcotte | 
-| 2008 | Danial Yusoff | 
-| 2009 |
-| 2010 | Shane Alam |
-| 2011 | Bonita Leung | Yvonne Diep |
-| 2012 | Patricia Woodbridge Ortega  & Vlad Anton |
-| 2013 | Fabian Manke & Suny Conscione |
-| 2014 |
-| 2015 | Isabel Yu |
-| 2016 | Isabel Yu |
-| 2017 | Anne-Marie Flower |
-| 2018 | Teodor Rusu |
-| 2019 | Lilian Magnus |
-| 2020 | Ines Perez Tabarnero |
-| 2021 | |
-| 2022 | Lewis Ng |
-| 2023 | Eric Crowther |
+| 2003-04 | Thomas Pritchard |
+| 2004-05 | Joanna King |
+| 2005-06 | Joanne Horton | 
+| 2006-07 | Laura Cobden | 
+| 2007-08 | Melissa Turcotte | 
+| 2008-09 | Danial Yusoff | 
+| 2009-10 |
+| 2010-11 | Shane Alam |
+| 2011-12 | Bonita Leung | Yvonne Diep |
+| 2012-13 | Patricia Woodbridge Ortega  & Vlad Anton |
+| 2013-14 | Fabian Manke & Suny Conscione |
+| 2014-15 |
+| 2015-16 | Isabel Yu |
+| 2016-17 | Isabel Yu |
+| 2017-18 | Anne-Marie Flower |
+| 2018-19 | Teodor Rusu |
+| 2019-20 | Lilian Magnus |
+| 2020-21 | Ines Perez Tabarnero |
+| 2021-22 | |
+| 2022-23 | Lewis Ng |
+| 2023-24 | Eric Crowther |
 
 The **Social Secretary** comes up with ideas and organises fun events
 for the team, such as socials in the JCR or elsewhere. They are
@@ -302,6 +305,7 @@ Specific administrative duties include:
 | 2021-22 | Emma Dolphin | |
 | 2022-23 | Keven Du | |
 | 2023-24 | Ken Li | |
+| 2024-25 | Julian Smart | |
 
 The **Treasurer** is responsible for all money-related matters in the
 club. Most importantly, the treasurer is responsible for the financial
@@ -418,6 +422,7 @@ including:
 | 2020-21 | Alistair McMurray |
 | 2022-23 | Mavis Goh |
 | 2023-24 | Lauren Gu |
+| 2024-25 | Yuxuan Tao |
 
 The **Secretary** is one of the principal officers of the club.
 They are in charge of the rota, the weekly email, and are responsible for monitoring the club's mailbox.
