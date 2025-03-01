@@ -18,7 +18,7 @@ const pluginSitemap = require("@quasibit/eleventy-plugin-sitemap");
 
 const brokenLinksPlugin = require("eleventy-plugin-broken-links");
 
-const lazyImagesPlugin = require("eleventy-plugin-lazyimages");
+// const lazyImagesPlugin = require("eleventy-plugin-lazyimages");
 
 const htmlmin = require("html-minifier");
 
@@ -114,9 +114,9 @@ module.exports = function (eleventyConfig) {
       hostname: "https://icldance.co.uk",
     },
   });
-  eleventyConfig.addPlugin(lazyImagesPlugin, {
-    cacheFile: ".cache/lazyimages.json",
-  });
+  // eleventyConfig.addPlugin(lazyImagesPlugin, {
+  //   cacheFile: ".cache/lazyimages.json",
+  // });
 
   return {
     // Control which files Eleventy will process
@@ -146,7 +146,7 @@ module.exports = function (eleventyConfig) {
     // These are all optional (defaults are shown):
     dir: {
       // input: ".",
-      output: "/opt/icldance/_site"
+      // output: "/opt/icldance/_site"
       // includes: "./_includes",
       // data: "./_data",
     },

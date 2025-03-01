@@ -4,7 +4,7 @@
   "description": "Imperial College Dance Club website",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build-ghpages": "npx @11ty/eleventy"
   },
   "keywords": [],
   "author": "",
