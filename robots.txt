@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://icldance.co.uk/sitemap.xml

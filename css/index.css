@@ -1,0 +1,163 @@
+:root {
+  /* Theme colors */
+  --color-primary: #3eb0ef;
+  --color-base: #15171a;
+  --color-secondary: #5b7a81;
+  --color-border: #c7d5d8;
+  --color-bg: #f5f5f5;
+
+  /* Fonts */
+  --font-family: "Inter", -apple-system, system-ui, sans-serif;
+  --font-family-serif: "Lora", Georgia, serif;
+  --font-family-monospace: Consolas, Menlo, Monaco, Andale Mono WT, Andale Mono,
+    Lucida Console, Lucida Sans Typewriter, DejaVu Sans Mono,
+    Bitstream Vera Sans Mono, Liberation Mono, Nimbus Mono L, Courier New,
+    Courier, monospace;
+
+  /* Font weights */
+  --font-normal: 400;
+  --font-bold: 600;
+
+  /* Sizes */
+  --height: 4rem;
+  --margin: 2rem;
+}
+
+/* Use variable fonts if supported */
+@supports (font-variation-settings: normal) {
+  :root {
+    --font-family: "Inter var", -apple-system, system-ui, sans-serif;
+  }
+}
+
+/* @media (prefers-color-scheme: dark) {
+  :root {
+  }
+} */
+
+/* Global stylesheet */
+* {
+  box-sizing: border-box;
+  margin-block-start: 0.5em;
+  margin-block-end: 0.5em;
+  margin-inline-start: 0;
+  margin-inline-end: 0;
+}
+
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: var(--font-family);
+  color: var(--text-color);
+  background-color: var(--background-color);
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-family-serif);
+  font-weight: var(--font-bold);
+  font-style: italic;
+  color: var(--color-base);
+}
+
+p {
+  line-height: 1.7em;
+  text-align: justify;
+}
+
+p:last-child {
+  margin-bottom: 0;
+}
+
+main {
+  max-width: 720px;
+  margin: 0 auto;
+  padding: 0 1.3rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+nav {
+  /* center navigation links */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  align-content: center;
+  flex-direction: row;
+  margin: 0 auto;
+  padding: 0;
+  list-style: none;
+  max-width: 720px;
+  width: 100%;
+}
+
+nav a {
+  display: block;
+  padding: 0.5rem;
+  margin: 0.1rem;
+  text-decoration: none;
+  color: var(--color-primary);
+  font-family: var(--font-family-serif);
+  font-style: italic;
+  letter-spacing: 0.1em;
+  /* transition: color 0.2s ease-in-out; */
+  text-align: center;
+  background-size: 1px 1px;
+  border: 1px solid var(--color-primary);
+}
+
+nav a:hover {
+  color: var(--color-bg);
+}
+
+footer {
+  margin: 0 auto;
+  padding: 2rem 0;
+  text-align: center;
+  font-size: 0.8em;
+  color: var(--color-secondary);
+}
+
+img {
+  display: block;
+  width: 100%;
+  max-width: 100%;
+  height: auto;
+}
+
+/* Blatantly nicked from GitHub */
+
+blockquote {
+  margin: 0;
+  padding: 0 1em;
+  color: var(--color-secondary);
+  border-left: 0.25rem solid var(--color-secondary);
+}
+
+blockquote p {
+  margin: 0;
+}
+
+/* Link hover effects */
+
+a {
+  background:
+     linear-gradient(
+       to bottom,
+       var(--color-primary) 0%,
+       var(--color-primary) 100%
+     );
+  background-position: 0 100%;
+  background-repeat: repeat-x;
+  background-size: 1.5px 1.5px;
+  color: var(--color-base);
+  text-decoration: none;
+  transition: all .3s;
+}
+
+a:hover {
+  color: var(--color-bg);
+  background-size: 4px 50px;
+}
