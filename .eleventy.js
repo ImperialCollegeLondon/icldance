@@ -18,9 +18,9 @@ const pluginSitemap = require("@quasibit/eleventy-plugin-sitemap");
 
 const brokenLinksPlugin = require("eleventy-plugin-broken-links");
 
-// const lazyImagesPlugin = require("eleventy-plugin-lazyimages");
+const { eleventyImageTransformPlugin } = require("@11ty/eleventy-img");
 
-const htmlmin = require("html-minifier");
+const htmlmin = require("html-minifier-terser");
 
 module.exports = function (eleventyConfig) {
   eleventyConfig.addCollection("posts", function (collectionApi) {
@@ -53,18 +53,19 @@ module.exports = function (eleventyConfig) {
     return DateTime.fromJSDate(dateObj, { zone: "utc" }).toFormat("yyyy-LL-dd");
   });
 
-  // https://www.11ty.dev/docs/config/#transforms
-  eleventyConfig.addTransform("htmlmin", function(content) {
-    // Prior to Eleventy 2.0: use this.outputPath instead
-    if( this.page.outputPath && this.page.outputPath.endsWith(".html") ) {
+  // https://www.11ty.dev/docs/transforms/#minify-html-output
+  eleventyConfig.addTransform("htmlmin", function (content) {
+    if ((this.page.outputPath || "").endsWith(".html")) {
       let minified = htmlmin.minify(content, {
         useShortDoctype: true,
         removeComments: true,
-        collapseWhitespace: true
+        collapseWhitespace: true,
       });
+
       return minified;
     }
 
+    // If not an HTML output, return content as-is
     return content;
   });
 
@@ -114,9 +115,25 @@ module.exports = function (eleventyConfig) {
       hostname: "https://icldance.co.uk",
     },
   });
-  // eleventyConfig.addPlugin(lazyImagesPlugin, {
-  //   cacheFile: ".cache/lazyimages.json",
-  // });
+  eleventyConfig.addPlugin(eleventyImageTransformPlugin, {
+    // output image formats
+    formats: ["auto"],
+
+    // output image widths
+    widths: ['auto', 400, 800, 1200, 2000],
+
+    // do not rasterize SVGs
+    svgShortCircuit: false,
+
+    // optional, attributes assigned on <img> nodes override these values
+    htmlOptions: {
+      imgAttributes: {
+        loading: "lazy",
+        decoding: "async",
+      },
+      pictureAttributes: {}
+    },
+  });
 
   return {
     // Control which files Eleventy will process
