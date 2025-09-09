@@ -493,7 +493,7 @@ Specific administrative duties include:
 | 2020-21 | Pavan Gill |
 | 2021-22 | |
 | 2022-23 | Warren Smith |
-| 2023-24 | Timothy Langer |
+| 2023-25 | Timothy Langer |
 
 The **Webmaster** maintains the website, including the news section and
 the timetable.

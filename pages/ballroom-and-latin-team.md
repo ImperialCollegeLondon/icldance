@@ -13,7 +13,7 @@ permalink: /ballroom-and-latin-team/
 - **Ballroom:** Waltz, Tango, Viennese Waltz, Foxtrot, Quickstep
 - **Latin:** Cha-cha, Samba, Rumba, Paso Doble, Jive
 
-Every dancer in the Ballroom and Latin team, no matter the level, enjoys an hour class and an hour of group supervised practice with one of [our world-class professional instructors](/instructors/). Each week, a further two practice nights let you perfect the craft.
+Every dancer in the Ballroom and Latin team, no matter the level, enjoys an hour class and an hour of group supervised practice with one of [our world-class professional instructors](../instructors/). Each week, a further two practice nights let you perfect the craft.
 
 ### I've never danced before!
 

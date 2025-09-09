@@ -16,13 +16,9 @@ const pluginCleanUrls = require("@inframanufaktur/eleventy-plugin-clean-urls");
 
 const pluginSitemap = require("@quasibit/eleventy-plugin-sitemap");
 
-const brokenLinksPlugin = require("eleventy-plugin-broken-links");
-
-const { eleventyImageTransformPlugin } = require("@11ty/eleventy-img");
-
 const htmlmin = require("html-minifier-terser");
 
-module.exports = function (eleventyConfig) {
+module.exports = async function (eleventyConfig) {
   eleventyConfig.addCollection("posts", function (collectionApi) {
     return collectionApi.getFilteredByGlob("posts/**/*");
   });
@@ -31,7 +27,7 @@ module.exports = function (eleventyConfig) {
 
   eleventyConfig.addPlugin(pluginSEO, {
     title: "Imperial College London Dance Club",
-    url: "https://icldance.co.uk",
+    url: "https://imperialcollegelondon.github.io/icldance/",
     image: "/assets/favicon.png",
     author: "Timothy Langer",
     options: {
@@ -106,32 +102,12 @@ module.exports = function (eleventyConfig) {
   // Use pass-through file copy when in development mode
   eleventyConfig.setServerPassthroughCopyBehavior("passthrough");
 
-  // eleventyConfig.addPlugin(brokenLinksPlugin);
   eleventyConfig.addPlugin(inclusiveLangPlugin);
   eleventyConfig.addPlugin(pluginCleanUrls);
   eleventyConfig.addPlugin(pluginSitemap, {
     lastModifiedProperty: "modified",
     sitemap: {
-      hostname: "https://icldance.co.uk",
-    },
-  });
-  eleventyConfig.addPlugin(eleventyImageTransformPlugin, {
-    // output image formats
-    formats: ["auto"],
-
-    // output image widths
-    widths: ['auto', 400, 800, 1200, 2000],
-
-    // do not rasterize SVGs
-    svgShortCircuit: false,
-
-    // optional, attributes assigned on <img> nodes override these values
-    htmlOptions: {
-      imgAttributes: {
-        loading: "lazy",
-        decoding: "async",
-      },
-      pictureAttributes: {}
+      hostname: "https://imperialcollegelondon.github.io/icldance/",
     },
   });
 
@@ -157,7 +133,7 @@ module.exports = function (eleventyConfig) {
     // You can also pass this in on the command line using `--pathprefix`
 
     // Optional (default is shown)
-    // pathPrefix: "/wordpress/",
+    pathPrefix: "/icldance/",
     // -----------------------------------------------------------------
 
     // These are all optional (defaults are shown):

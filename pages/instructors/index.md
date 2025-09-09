@@ -13,7 +13,7 @@ We have a team of world-class, dedicated resident instructors that teach our stu
 
 ## Laura Fox
 
-![Laura Fox at medal ceremony](/images/laura.jpg)
+![Laura Fox at medal ceremony](../images/laura.jpg)
 
 Laura is a director at [The Dance Lab](https://thedancelabputney.com/) in London and a multi-award-winning dancer: British National Amateur and Professional Finalist, four-time Professional Rising star Champions and finalists, and many more. It is no wonder why the Imperial Team has been winning numerous awards for the past years!
 
@@ -23,7 +23,7 @@ When asked what words we would use to describe Laura, we universally say that sh
 
 ## Marika Doshoris
 
-![Marika Doshoris performing](/images/marika.jpg)
+![Marika Doshoris performing](../images/marika.jpg)
 
 Marika is an exceptionally accomplished dancer, having previously been ranked number one in the UK WDC World Ranking in professional Latin! She is a three-time British National Professional Latin Champion, a two-time Closed UK Professional Latin Champions, and has many more achievements to her name.
 

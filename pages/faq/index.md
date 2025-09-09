@@ -30,7 +30,7 @@ Occasionally, we hold lessons in other locations; additional instructions on how
 
 ## How do I get membership?
 
-![Membership flowchart](/pages/faq/images/membership.svg)
+![Membership flowchart](../images/membership.svg)
 
 For most dancers, becoming a member costs only £20 for the entire academic year.
 Membership lets you access all of our social classes at a discounted package, and to join our competitive teams.
@@ -41,7 +41,7 @@ Imperial College students can become members of the Dance Club by purchasing mem
 
 ### Recent Imperial graduates
 
-If you are not already a Life Member of the Union, you may purchase Life Membership [here](https://www.imperialcollegeunion.org/shop/union/imperial-college-union/life-membership). Then you will be able to become a [member of the Dance Club](https://www.imperialcollegeunion.org/shop/csp/dance-club/dance-club-membership-24-25).
+If you are not already a Life Member of the Union, you may purchase Life Membership [here](https://www.imperialcollegeunion.org/shop/union/imperial-college-union/life-membership). Then you will be able to become a [member of the Dance Club](https://www.imperialcollegeunion.org/shop/csp/dance-club/dance-club-membership-25-26).
 
 ### Non-Imperial students
 

@@ -10,17 +10,17 @@ permalink: /
 
 # Welcome to Imperial College Dance Club
 
-![Bath Winter Friendly 2023](/images/bath23.jpg)
+![Bath Winter Friendly 2023](./images/bath23.jpg)
 
 In the words of the Bee Gees… You Should Be Dancing 🪩
 
 With dancing being one of the best ways of staying active, IC Dance Club offers Ballroom (Waltz, Tango, Viennese Waltz, Foxtrot, Quickstep), Latin (Cha Cha, Samba, Rumba, Paso Doble, Jive), Salsa, and Bachata classes and socials fostered in a passionate environment with club spirit at its heart. With over 250 members, we offer classes for all skill levels, so whether you’re a complete beginner or think you’re at the top of your game, we have something for you 😁
 
-Join the [Ballroom & Latin Team](/ballroom-and-latin-team/) and dance alongside the [winners of the Inter Varsity Dance Championships 2023 Team Match](/posts/2021-22/ivdc/) 🏆 Taught by [world-class coaches](/instructors/), unleash your inner dancer and burn the floor at a variety of university competitions ✨
+Join the [Ballroom & Latin Team](./ballroom-and-latin-team/) and dance alongside the [winners of the Inter Varsity Dance Championships 2023 Team Match](./posts/2021-22/ivdc/) 🏆 Taught by [world-class coaches](./instructors/), unleash your inner dancer and burn the floor at a variety of university competitions ✨
 
-Into something more social? Join the UK’s top student [Salsa & Bachata Team](/salsa-and-bachata/)! Take part in weekly socials and join an ever-expanding community as you attend global festivals 🌎, boat parties 🛥, and picnics 🌳 If you want to go above and beyond (literally, it’s flipping awesome), join the Open Level Team and learn phenomenal choreography to compete in university showcases 💃
+Into something more social? Join the UK’s top student [Salsa & Bachata Team](./salsa-and-bachata/)! Take part in weekly socials and join an ever-expanding community as you attend global festivals 🌎, boat parties 🛥, and picnics 🌳 If you want to go above and beyond (literally, it’s flipping awesome), join the Open Level Team and learn phenomenal choreography to compete in university showcases 💃
 
-[No partner? No experience? No sweat!](/faq/) You bring the good vibes, and we’ll bring all the glitz and glamour you could dream of 🤩
+[No partner? No experience? No sweat!](./faq/) You bring the good vibes, and we’ll bring all the glitz and glamour you could dream of 🤩
 
 ## Timetable
 
