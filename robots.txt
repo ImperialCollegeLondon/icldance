@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://icldance.co.uk/sitemap.xml
+Sitemap: https://imperialcollegelondon.github.io/icldance/sitemap.xml
